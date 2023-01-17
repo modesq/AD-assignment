@@ -1,0 +1,290 @@
+[
+    {
+        "name": "Ibuprofen",
+        "description": "Ibuprofen is a non-steroidal anti-inflammatory drug (NSAID) used to relieve pain, reduce fever and inflammation."
+    },
+    {
+        "name": "Paracetamol",
+        "description": "Paracetamol is a pain reliever and a fever reducer. The exact mechanism of action of is not known."
+    },
+    {
+        "name": "Amoxicillin",
+        "description": "Amoxicillin is an antibiotic used to treat a wide variety of bacterial infections."
+    },
+    {
+        "name": "Lisinopril",
+        "description": "Lisinopril is an ACE inhibitor used to treat high blood pressure and heart failure."
+    },
+    {
+        "name": "Maybelline Great Lash mascara",
+        "description": "a mascara that promises to provide volume and length to lashes"
+    },
+    {
+        "name": "L'Oréal Paris Infallible Pro-Matte Foundation",
+        "description": "a long-lasting matte foundation that promises to provide a smooth and even finish"
+    },
+    {
+        "name": "Nars Radiant Creamy Concealer",
+        "description": "a concealer that promises to provide full coverage and to brighten under-eye circles"
+    },
+    {
+        "name": "Chanel Rouge Allure lipstick",
+        "description": "a luxury lipstick that promises to provide a long-lasting and intense color"
+    },
+    {
+        "name": "Neutrogena Hydro Boost Water Gel",
+        "description": "a moisturizer that promises to hydrate and plump the skin."
+    },
+    {
+        "name": "Synthroid",
+        "description": "a prescription medication used to replace thyroid hormone in people who have had their thyroid gland removed or who have an thyroid gland that doesn't function properly."
+    },
+    {
+        "name": "Plavix",
+        "description": "a prescription medication used to prevent blood clots in people who have had a heart attack, stroke, or peripheral vascular disease."
+    },
+    {
+        "name": "Amoxil",
+        "description": "an antibiotic medication used to treat a wide variety of bacterial infections."
+    },
+    {
+        "name": "Prozac",
+        "description": "a prescription medication used to treat depression, obsessive-compulsive disorder, and other mental health conditions."
+    },
+    {
+        "name": "Advair",
+        "description": "a prescription medication used to treat asthma and chronic obstructive pulmonary disease (COPD)."
+    },
+    {
+        "name": "Nuxe Huile Prodigieuse Multi-Purpose Dry Oil",
+        "description": "a multi-purpose dry oil that promises to nourish, repair, and enhance the skin, hair, and nails."
+    },
+    {
+        "name": "Urban Decay All Nighter Long-Lasting Makeup Setting Spray",
+        "description": "a makeup setting spray that promises to keep makeup looking fresh for up to 16 hours."
+    },
+    {
+        "name": "Yves Saint Laurent Touche Éclat Concealer",
+        "description": "a concealer that promises to brighten and illuminate the under-eye area."
+    },
+    {
+        "name": "Lush Cosmetics Fresh Face Mask",
+        "description": "a face mask that promises to cleanse, exfoliate, and moisturize the skin."
+    },
+    {
+        "name": "Tarte Shape Tape Concealer",
+        "description": "a concealer that promises to provide full coverage and to brighten and smooth the under-eye area."
+    },
+    {
+        "name": "Aleve",
+        "description": "an over-the-counter medication used to relieve pain, reduce fever, and reduce inflammation."
+    },
+    {
+        "name": "Crestor",
+        "description": "a prescription medication used to lower cholesterol levels."
+    },
+    {
+        "name": "Singulair",
+        "description": "a prescription medication used to prevent and treat asthma and allergic rhinitis."
+    },
+    {
+        "name": "Lexapro",
+        "description": "a prescription medication used to treat depression and anxiety."
+    },
+    {
+        "name": "Benadryl",
+        "description": "an over-the-counter medication used to relieve symptoms of allergies and the common cold."
+    },
+    {
+        "name": "Allegra",
+        "description": "an over-the-counter medication used to relieve symptoms of allergies such as sneezing, runny nose, and itchy eyes."
+    },
+    {
+        "name": "Xarelto",
+        "description": "a prescription medication used to prevent blood clots in people who have had a knee or hip replacement surgery."
+    },
+    {
+        "name": "Flonase",
+        "description": "an over-the-counter medication used to relieve symptoms of nasal allergies such as sneezing, runny nose, and congestion."
+    },
+    {
+        "name": "Meloxicam",
+        "description": "a prescription medication used to relieve pain and reduce inflammation."
+    },
+    {
+        "name": "Cialis",
+        "description": "a prescription medication used to treat erectile dysfunction and the symptoms of benign prostatic hyperplasia (BPH)."
+    },
+    {
+        "name": "Vicodin",
+        "description": "a prescription medication used to relieve moderate to severe pain."
+    },
+    {
+        "name": "Zantac",
+        "description": "an over-the-counter medication used to relieve heartburn and other symptoms of acid reflux."
+    },
+    {
+        "name": "Atenolol",
+        "description": "a prescription medication used to treat high blood pressure and chest pain."
+    },
+    {
+        "name": "Clindamycin",
+        "description": "a prescription antibiotic medication used to treat a wide variety of bacterial infections."
+    },
+    {
+        "name": "Claritin",
+        "description": "an over-the-counter medication used to relieve symptoms of allergies such as sneezing, runny nose, and itchy eyes."
+    },
+    {
+        "name": "Anastasia Beverly Hills Dipbrow Pomade",
+        "description": "a pomade that promises to shape, fill and define the brows."
+    },
+    {
+        "name": "Huda Beauty Faux Filter Foundation",
+        "description": "a foundation that promises to provide a full coverage and a flawless finish."
+    },
+    {
+        "name": "Smashbox Photo Finish Primer Water",
+        "description": "a makeup primer that promises to hydrate and prep the skin for makeup application."
+    },
+    {
+        "name": "Charlotte Tilbury Filmstar Bronze & Glow",
+        "description": "a sculpting and highlighting powder that promises to add definition and glow to the face."
+    },
+    {
+        "name": "bareMinerals Original Foundation",
+        "description": "a foundation that promises to provide a natural-looking coverage and to improve the skin's appearance over time."
+    },
+    {
+        "name": "L'Oréal Paris Voluminous Lash Paradise Mascara",
+        "description": "a mascara that promises to provide volume and length to the lashes."
+    },
+    {
+        "name": "Nudestix Intense Matte and Satin Lip + Cheek Pencil",
+        "description": "a lip and cheek pencil that promises to provide a long-lasting and intense color."
+    },
+    {
+        "name": "Becca Under Eye Brightening Setting Powder",
+        "description": "a setting powder that promises to brighten and set the under-eye area."
+    },
+    {
+        "name": "It Cosmetics Your Skin But Better CC Cream",
+        "description": "a color-correcting cream that promises to provide a full coverage, hydration and sun protection."
+    },
+    {
+        "name": "Maybelline SuperStay Matte Ink Liquid Lipstick",
+        "description": "a liquid lipstick that promises to provide a long-lasting and intense matte color."
+    },
+    {
+        "name": "Tylenol",
+        "description": "an over-the-counter medication used to relieve pain and reduce fever."
+    },
+    {
+        "name": "Metformin",
+        "description": "a prescription medication used to treat type 2 diabetes by helping to control blood sugar levels."
+    },
+    {
+        "name": "Protonix",
+        "description": "a prescription medication used to treat gastroesophageal reflux disease (GERD) and other conditions caused by excess stomach acid."
+    },
+    {
+        "name": "Zocor",
+        "description": "a prescription medication used to lower cholesterol levels."
+    },
+    {
+        "name": "Wellbutrin",
+        "description": "a prescription medication used to treat depression and other mental health conditions."
+    },
+    {
+        "name": "Valtrex",
+        "description": "a prescription medication used to treat herpes and other viral infections."
+    },
+    {
+        "name": "Celexa",
+        "description": "a prescription medication used to treat depression and other mental health conditions."
+    },
+    {
+        "name": "Tamoxifen",
+        "description": "a prescription medication used to treat breast cancer by blocking the effects of estrogen in the body."
+    },
+    {
+        "name": "Spironolactone",
+        "description": "a prescription medication used to treat high blood pressure and fluid retention caused by certain medical conditions."
+    },
+    {
+        "name": "Sinemet",
+        "description": "a prescription medication used to treat Parkinson's disease by increasing the levels of dopamine in the brain."
+    },
+    {
+        "name": "Seroquel",
+        "description": "a prescription medication used to treat schizophrenia and other mental health conditions."
+    },
+    {
+        "name": "Depakote",
+        "description": "a prescription medication used to treat seizures, migraines, and other conditions caused by abnormal electrical activity in the brain."
+    },
+    {
+        "name": "Cymbalta",
+        "description": "a prescription medication used to treat depression, anxiety, and other mental health conditions."
+    },
+    {
+        "name": "Clonidine",
+        "description": "a prescription medication used to treat high blood pressure, attention deficit hyperactivity disorder (ADHD), and other conditions."
+    },
+    {
+        "name": "Aspirin",
+        "description": "an over-the-counter medication used to relieve pain, reduce fever, and reduce the risk of heart attack and stroke."
+    },
+    {
+        "name": "MAC Studio Fix Fluid Foundation",
+        "description": "a foundation that promises to provide a full coverage and a natural-looking finish."
+    },
+    {
+        "name": "Tarte Shape Tape Contour Concealer",
+        "description": "a concealer that promises to provide full coverage and to contour and highlight the face."
+    },
+    {
+        "name": "Nars Radiant Creamy Concealer",
+        "description": "a concealer that promises to provide full coverage and to brighten under-eye circles."
+    },
+    {
+        "name": "CoverGirl LashBlast Volume Mascara",
+        "description": "a mascara that promises to provide volume and length to lashes."
+    },
+    {
+        "name": "L'Oréal Paris Voluminous Original Mascara",
+        "description": "a mascara that promises to provide volume and length to lashes."
+    },
+    {
+        "name": "Maybelline Fit Me Matte + Poreless Foundation",
+        "description": "a foundation that promises to provide a matte finish and to minimize the appearance of pores."
+    },
+    {
+        "name": "Urban Decay All Nighter Long-Lasting Makeup Setting Spray",
+        "description": "a makeup setting spray that promises to keep makeup looking fresh for up to 16 hours."
+    },
+    {
+        "name": "Anastasia Beverly Hills Glow Kit",
+        "description": "a highlighting palette that promises to add a radiant glow to the face."
+    },
+    {
+        "name": "Nudestix Intense Matte and Satin Lip + Cheek Pencil",
+        "description": "a lip and cheek pencil that promises to provide a long-lasting and intense color."
+    },
+    {
+        "name": "Becca Under Eye Brightening Setting Powder",
+        "description": "a setting powder that promises to brighten and set the under-eye area."
+    },
+    {
+        "name": "It Cosmetics Your Skin But Better CC Cream",
+        "description": "a color-correcting cream that promises to provide a full coverage, hydration and sun protection."
+    },
+    {
+        "name": "Maybelline SuperStay Matte Ink Liquid Lipstick",
+        "description": "a liquid lipstick that promises to provide a long-lasting and intense matte color."
+    },
+    {
+        "name": "The Ordinary Hyaluronic Acid 2% + B5",
+        "description": "a hydrating serum that promises to plump and hydrate the skin."
+    }
+]

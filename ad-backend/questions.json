@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Jane Smith",
+        "phoneNumber": "555-555-5555",
+        "question": "What are the side effects of this medication?"
+    },
+    {
+        "name": "John Doe",
+        "phoneNumber": "555-555-5556",
+        "question": "Can I take this medication with other medications I am currently taking?"
+    },
+    {
+        "name": "Samantha Jones",
+        "phoneNumber": "555-555-5557",
+        "question": "How do I properly store this medication?"
+    },
+    {
+        "name": "Michael Davis",
+        "phoneNumber": "555-555-5558",
+        "question": "How long will it take for this medication to start working?"
+    },
+    {
+        "name": "Emily Wilson",
+        "phoneNumber": "555-555-5559",
+        "question": "What should I do if I miss a dose of this medication?"
+    }
+]
